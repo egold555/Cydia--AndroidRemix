@@ -1,0 +1,10 @@
+Package: org.golde.cydia.Ringtone.AndroidRemeix
+Name: Android Remix Ringtone
+Author: Eric Golde
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Installs a ringtone
+Homepage: http://eric.golde.org/android-remix-ringtone/
+Maintainer: Eric Golde
+Section: ECR_Ringtones
+Depends: com.unlimapps.toneenabler
